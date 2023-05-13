@@ -1,0 +1,21 @@
+id,skills,explevel,name
+11,Bash/Shell;PowerShell;Python;R;SQL;Microsoft SQL Server;MySQL;AWS;Microsoft Azure;.NET;Apache Spark;Pandas,Senior,Data Engineer
+12,Bash/Shell;PowerShell;SQL;Microsoft SQL Server;Microsoft Azure;.NET;Apache Spark;Ansible;Docker;Terraform,Associate,DevOps Engineer
+13,HTML/CSS;JavaScript;Python;SQL;MySQL;PostgreSQL;AWS;Angular;Angular.js;Node.js;React.js;npm,Associate,Full Stack Developer
+14,Bash/Shell;PowerShell;SQL;Microsoft SQL Server;MySQL;PostgreSQL;SQLite;AWS;Microsoft Azure;.NET;Terraform,Senior,Database Administrator
+15,Python;R;Scala;SQL;MongoDB;MySQL;AWS;Google Cloud;Apache Kafka;Apache Spark;Pandas;TensorFlow;Torch/PyTorch;,Senior,Data Scientist
+21,C#;Kotlin;Python;SQL;PostgreSQL;.NET;Apache Kafka;Pandas;Docker;Kubernetes,Associate,Software Engineer
+22,JavaScript;PostgreSQL;jQuery;React.js;React Native;Docker;Kubernetes,Associate,Software Engineer - Frontend
+23,HTML/CSS;JavaScript;PostgreSQL;Angular.js;jQuery;Node.js;React.js;React Native,Senior,Senior Software Engineer - Frontend
+24,C#;Kotlin;Python;Rust;Microsoft SQL Server;PostgreSQL;AWS;Google Cloud;Microsoft Azure;.NET;Apache Kafka;Apache Spark;Pandas;Docker;Kubernetes;Terraform,Senior,Senior Software Engineer
+25,C#;Java;JavaScript;Kotlin;Python;Rust;SQL;MongoDB;PostgreSQL;AWS;Google Cloud;Microsoft Azure;React.js;.NET;Apache Kafka;Apache Spark;Hadoop;Pandas;Docker;Kubernetes;Terraform,Architect,Software Architect
+31,Clojure;Go;Java;Python;Microsoft SQL Server;MongoDB;PostgreSQL;AWS;Google Cloud;Microsoft Azure;Node.js;React.js;Apache Kafka;Apache Spark;Hadoop;Keras;NumPy;Pandas;Scikit-learn;Tidyverse;TensorFlow;Torch/PyTorch;Docker;Homebrew;Kubernetes;npm;Yarn,Senior,Development manager
+32,Java;JavaScript;Objective-C;SQL;Swift;VBA;IBM DB2;Microsoft SQL Server;MySQL;Oracle;VMware;ASP.NET;ASP.NET Core;jQuery;.NET,Senior,Support Team Manager
+33,C#;Java;JavaScript;Objective-C;SQL;Swift;IBM DB2;Microsoft SQL Server;MySQL;Oracle;SQLite;VMware;ASP.NET;.NET,Senior,Support Engineer
+34,C#;HTML/CSS;Java;SQL;Microsoft SQL Server;Oracle;ASP.NET;.NET,Junior,Support Engineer
+35,C;C++;Go;Java;JavaScript;Kotlin;SQL;Swift;TypeScript;IBM DB2;Microsoft SQL Server;Oracle;PostgreSQL;SQLite;AWS;Google Cloud;Microsoft Azure;VMware;Django;Node.js;React.js;Apache Kafka;Apache Spark;Hadoop;Keras;NumPy;Pandas;Scikit-learn;Tidyverse;TensorFlow;Torch/PyTorch;Docker;Kubernetes,Senior,Senior Developer
+41,C#;PowerShell;Python;SQL;Cassandra;MariaDB;Microsoft SQL Server;Microsoft Azure;jQuery;Apache Spark;Pandas;Terraform,Associate,Data engineer
+42,Kotlin;Python;R;SQL;Cassandra;Elasticsearch;Microsoft SQL Server;PostgreSQL;AWS;Microsoft Azure;Apache Kafka;Apache Spark;Keras;Pandas;TensorFlow;Docker;Kubernetes;Terraform,Associate,Data scientist
+43,SQL;Cassandra;Microsoft SQL Server;Oracle;PostgreSQL;Microsoft Azure,Associate,Power BI Developer
+44,Python;SQL;Microsoft SQL Server;Microsoft Azure;ASP.NET Core,Junior,Junior Data engineer
+45,PowerShell;SQL;Microsoft SQL Server;Microsoft Azure,Junior,Junior Power BI Developer
