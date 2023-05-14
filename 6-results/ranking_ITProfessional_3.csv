@@ -1,6 +1,6 @@
 ,id,skills,rank-model1,rank-model2,rank-model3
-1439,60582,"['IOC', 'Core Java', 'Spring', 'Hibernate', 'J2Ee', 'Aop', 'HTML', 'Oracle', 'JQuery', 'CSS']",1.0,1.0,1.0
-2497,38526,"['C', 'Linux', 'Embedded Software', 'Programming', 'Bsc', 'Software Development']",3.0,3.0,2.0
-1547,14258,"['Cocoa Touch', 'XCode', 'IOS', 'Mac OS X', 'Objective C', 'C++', 'SDK', 'Android', 'Data Structures', 'Algorithms']",2.0,2.0,3.0
-3716,45057,"['Javascript', 'MVC Architecture', 'Programming']",5.0,4.0,4.0
-6853,101965,"['User Stories', 'Web UI', 'New Product', 'Use Cases', 'other JS framework', 'WEB GUI', 'Javascript', 'UI Development', 'ExtJS', 'Design', 'Web Technologies', 'Software Engineering']",4.0,5.0,5.0
+9739,102626,['C#'],2.0,1.0,1.0
+8095,39177,"['GIT', 'XML', 'Javascript', 'JQuery', 'Ajax', 'XHTML', 'MVC', 'MySQL', 'XSLT', 'Ruby']",3.0,2.0,2.0
+628,11807,"['SQL', 'Oracle', 'Informatica', 'Cognos', 'Data Modeling', 'Ab Initio', 'Shell Scripting', 'Web Technologies', 'Web Services']",1.0,3.0,3.0
+8112,59836,"['NoSQL', 'Java', 'HTML', 'Javascript', 'CSS', 'J2Ee', 'Spring Framework', 'Web Services', 'spring']",4.0,4.0,4.0
+3684,15303,"['sql', 'production support', 'sas', 'quality assurance', 'teradata', 'application development', 'data structures', 'risk management', 'release management', 'essbase']",5.0,5.0,5.0

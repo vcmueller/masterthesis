@@ -1,0 +1,6 @@
+,id,skills,explevel,name,rank-model1,rank-model2,rank-model3
+12,33,"['C#', 'Java', 'JavaScript', 'Objective-C', 'SQL', 'Swift', 'IBM DB2', 'Microsoft SQL Server', 'MySQL', 'Oracle', 'SQLite', 'VMware', 'ASP.NET', '.NET']",Senior,Support Engineer,3.0,2.0,1.0
+3,14,"['Bash/Shell', 'PowerShell', 'SQL', 'Microsoft SQL Server', 'MySQL', 'PostgreSQL', 'SQLite', 'AWS', 'Microsoft Azure', '.NET', 'Terraform']",Senior,Database Administrator,7.0,5.0,3.0
+13,34,"['C#', 'HTML/CSS', 'Java', 'SQL', 'Microsoft SQL Server', 'Oracle', 'ASP.NET', '.NET']",Junior,Support Engineer,6.0,3.0,2.0
+2,13,"['HTML/CSS', 'JavaScript', 'Python', 'SQL', 'MySQL', 'PostgreSQL', 'AWS', 'Angular', 'Angular.js', 'Node.js', 'React.js', 'npm']",Associate,Full Stack Developer,1.0,1.0,7.0
+7,23,"['HTML/CSS', 'JavaScript', 'PostgreSQL', 'Angular.js', 'jQuery', 'Node.js', 'React.js', 'React Native']",Senior,Senior Software Engineer - Frontend,2.0,13.0,18.0

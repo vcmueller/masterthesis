@@ -1,6 +1,6 @@
 ,id,skills,rank-model1,rank-model2,rank-model3
-9056,100130,"['UI Lead', 'AngularJS', 'web application design', 'Senior Manager', 'JQuery', 'WCF', 'JavaScript', 'C#', 'ASP.Net']",3.0,2.0,1.0
-123,44415,"['JSON', 'Front End', 'Front End Developer', 'React.js', 'Javascript', 'Ajax', 'HTML', 'Java']",1.0,1.0,2.0
-9266,63547,"['XML', 'JSON', 'C', 'C#', 'SQL Server', '.NET Framework', 'MVC', 'WCF', 'C++', 'Com', 'Ajax', 'jQuery']",2.0,3.0,3.0
-1339,118036,"['development', 'front end', 'excellent communication skills', 'experience', 'website', 'ideas', 'html', 'javascript', 'css3', 'jquery']",4.0,4.0,4.0
-10011,9420,"['bi', 'database_developer', 'sql', 'oracle']",5.0,5.0,5.0
+10346,29474,"['Adobe analytics', 'Adobe analyticsGoogle Analytics', 'Ensighten', 'Tealium', 'Vertica', 'Hadoop', 'Web Analytics', 'UAT', 'user acceptance testing', 'HTML', 'JavaScript', 'jQuery']",1.0,1.0,1.0
+1807,118229,"['GIT', 'Angular Js', 'Javascript', 'CSS', 'UI Development', 'Web Services', 'SQL', 'Web Technologies', 'HTML']",2.0,2.0,2.0
+7581,6769,"['amazon', 'emr', 'cascading', 'angel', 'apache_hive', 'apache_thrift', 'predictive_analytics', 'distributed_computing', 'apache_oozie', 'apache_kafka', 'hortonworks', 'apache_storm', 'cluster', 'apache_spark', 'apache_hbase', 'big_data', 'mongodb', 'rim', 'couchdb', 'parallel_computing', 'mapreduce', 'data_engineering', 'distributed_file_system', 'rdbms', 'data_processing', 'r', 'apache_pig', 'talend', 'text_mining', 'information_retrieval', 'apache_solr', 'amazon_ec2']",4.0,3.0,3.0
+697,37237,"['email', 'forms', 'be', 'api', 'php', 'module', 'html', 'drupal', 'validation', 'cvs']",5.0,5.0,4.0
+10124,15381,"['java', 'j2ee', 'sql', 'oracle', 'unix', 'linux', 'html', 'aix', 'python', 'tomcat']",3.0,4.0,5.0

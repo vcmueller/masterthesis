@@ -1,6 +1,6 @@
 ,id,skills,rank-model1,rank-model2,rank-model3
-2359,80387,"['Java Web Services', 'Rest', 'Javascript', 'Oracle', 'Solution Architecture', 'SQL', 'Adf', 'JSF', 'Core Java', 'SOAP']",1.0,1.0,1.0
-2005,63033,"['Full Stack Developer', 'Full Stack', 'Full Stack development', 'laravel', 'PHP', 'Javascript', 'HTML', 'CSS']",3.0,3.0,2.0
-9768,38501,"['Linux Device Drivers', 'Opencv', 'GStreamer', 'C', 'C++', 'QT', 'Opengl', 'Firmware Development', 'Embedded Linux', 'Linux Kernel']",2.0,2.0,3.0
-9005,98745,"['Native', 'IOS', 'Mobile', 'App development', 'Web Solutions', 'Conflict Management', 'KPI', 'Enterprise mobile solution', 'PhoneGap', 'Enterprise Mobility.', 'Mobile Social', 'Android', 'Mobility', 'HTML5', 'OOP', 'JAVA', 'Agile', 'ROI', 'Technical Manager', 'Blackberry', 'j2me', 'brew']",4.0,4.0,4.0
-8964,129516,"['json', 'cocoa', 'xcode', 'gps', 'tools', 'xml', 'application development', 'objective c', 'coding', 'project delivery']",5.0,5.0,5.0
+10081,80894,"['MySQL Db', 'MongoDB', 'GIT', 'CakePHP', 'PHP', 'HTML', 'Javascript', 'JQuery', 'CSS', 'Ruby']",1.0,1.0,1.0
+5846,103802,"['Java Programming', 'visual basics', 'good communication skill', 'SME', 'C++ Programming', 'Python', 'data structure', 'Education', 'Content Writing', 'c#', 'online teaching', '.Net']",3.0,3.0,2.0
+8521,77020,"['Java', 'J2Ee', 'Web Services', 'SOA', 'Unix', 'Web Technologies', 'HTML', 'Linux', 'Shell Scripting', 'ITIL']",2.0,2.0,3.0
+5604,106681,"['Time Series Analysis', 'STATA', 'Crystal Ball', 'Econometrics', 'Quantitative Analysis', 'SAS', 'SPSS', 'Statistics', 'Credit Risk Management', 'Operational Risk']",4.0,4.0,4.0
+4158,101958,"['Aldon', 'CL', 'Team Orientation', 'Go Getter', 'Cobol', 'Design Development', 'Software Engineering', 'Retail Banking']",5.0,5.0,5.0

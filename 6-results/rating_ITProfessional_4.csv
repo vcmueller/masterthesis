@@ -1,0 +1,4 @@
+,id,skills,explevel,name,rank-model1,rank-model2,rank-model3
+2,13,"['HTML/CSS', 'JavaScript', 'Python', 'SQL', 'MySQL', 'PostgreSQL', 'AWS', 'Angular', 'Angular.js', 'Node.js', 'React.js', 'npm']",Associate,Full Stack Developer,1.0,1.0,1.0
+7,23,"['HTML/CSS', 'JavaScript', 'PostgreSQL', 'Angular.js', 'jQuery', 'Node.js', 'React.js', 'React Native']",Senior,Senior Software Engineer - Frontend,2.0,2.0,2.0
+6,22,"['JavaScript', 'PostgreSQL', 'jQuery', 'React.js', 'React Native', 'Docker', 'Kubernetes']",Associate,Software Engineer - Frontend,3.0,3.0,3.0
