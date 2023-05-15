@@ -1,6 +1,6 @@
-,id,skills,rank-model1,rank-model2,rank-model3
-9564,21716,"['Hadoop', 'Distribution System', 'Java', 'Algorithms', 'J2Ee', 'Data Structures']",2.0,1.0,1.0
-4997,101729,"['HTML', 'Java', 'Javascript', 'Ajax', 'CSS', 'MySQL', 'XML', 'Eclipse', 'Oracle', 'Jbuilder', 'Hybris']",1.0,2.0,2.0
-890,10119,"['ASP.Net MVC', 'C#', 'Javascript', 'MS SQL Server', 'JQuery', 'ASP', 'Web Services', 'Design Patterns', 'Net', 'SVN']",3.0,3.0,3.0
-7129,100924,"['MVVM', 'ASP.Net', 'WPF', 'SQL Server', 'Silverlight', 'C#.Net', 'MVC', 'HTML', 'Web Technologies', 'SQL Database']",4.0,4.0,4.0
-7600,128485,"['json', 'xml', 'windows', 'jquery', 'design patterns', 'mobile application', 'data structures', 'mvc', 'coding', 'windows mobile']",5.0,5.0,5.0
+,id,skills,rank-model1,rank-model2,rank-model3,rank-survey
+9564,21716,"['Hadoop', 'Distribution System', 'Java', 'Algorithms', 'J2Ee', 'Data Structures']",2.0,1.0,1.0,1
+4997,101729,"['HTML', 'Java', 'Javascript', 'Ajax', 'CSS', 'MySQL', 'XML', 'Eclipse', 'Oracle', 'Jbuilder', 'Hybris']",1.0,2.0,2.0,5
+890,10119,"['ASP.Net MVC', 'C#', 'Javascript', 'MS SQL Server', 'JQuery', 'ASP', 'Web Services', 'Design Patterns', 'Net', 'SVN']",3.0,3.0,3.0,3
+7129,100924,"['MVVM', 'ASP.Net', 'WPF', 'SQL Server', 'Silverlight', 'C#.Net', 'MVC', 'HTML', 'Web Technologies', 'SQL Database']",4.0,4.0,4.0,4
+7600,128485,"['json', 'xml', 'windows', 'jquery', 'design patterns', 'mobile application', 'data structures', 'mvc', 'coding', 'windows mobile']",5.0,5.0,5.0,2
