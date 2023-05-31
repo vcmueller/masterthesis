@@ -1,0 +1,7 @@
+,id,skills,explevel,name,rank-model1,rank-model2,rank-model3
+3,14,"['Bash/Shell', 'PowerShell', 'SQL', 'Microsoft SQL Server', 'MySQL', 'PostgreSQL', 'SQLite', 'AWS', 'Microsoft Azure', '.NET', 'Terraform']",Senior,Database Administrator,4.0,2.0,1.0
+4,15,"['Python', 'R', 'Scala', 'SQL', 'MongoDB', 'MySQL', 'AWS', 'Google Cloud', 'Apache Kafka', 'Apache Spark', 'Pandas', 'TensorFlow', 'Torch/PyTorch', '']",Senior,Data Scientist,14.0,8.0,3.0
+0,11,"['Bash/Shell', 'PowerShell', 'Python', 'R', 'SQL', 'Microsoft SQL Server', 'MySQL', 'AWS', 'Microsoft Azure', '.NET', 'Apache Spark', 'Pandas']",Senior,Data Engineer,2.0,1.0,4.0
+16,42,"['Kotlin', 'Python', 'R', 'SQL', 'Cassandra', 'Elasticsearch', 'Microsoft SQL Server', 'PostgreSQL', 'AWS', 'Microsoft Azure', 'Apache Kafka', 'Apache Spark', 'Keras', 'Pandas', 'TensorFlow', 'Docker', 'Kubernetes', 'Terraform']",Associate,Data scientist,13.0,6.0,2.0
+18,44,"['Python', 'SQL', 'Microsoft SQL Server', 'Microsoft Azure', 'ASP.NET Core']",Junior,Junior Data engineer,1.0,3.0,8.0
+13,34,"['C#', 'HTML/CSS', 'Java', 'SQL', 'Microsoft SQL Server', 'Oracle', 'ASP.NET', '.NET']",Junior,Support Engineer,3.0,15.0,20.0

@@ -1,0 +1,7 @@
+,id,skills,skills-want,Experience,rank-model1,rank-model2,rank-model3
+0,1,"['Java', 'JavaScript', 'Python', 'SQL', 'MySQL', 'SQLite', 'Node.js', 'React.js']","['Dart', 'Java', 'SQL', 'MySQL', 'SQLite']",Associate,5.0,2.0,2.0
+2,3,"['C++', 'HTML/CSS', 'Java', 'PHP', 'Python', 'SQL', 'MariaDB', 'MySQL', 'Oracle', 'SQLite', 'VMware', 'Unity 3D', 'Unreal Engine']","['Python', 'MySQL', 'SQLite', 'Unity 3D', 'Unreal Engine']",Associate,2.0,11.0,17.0
+10,11,"['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'Microsoft Azure', 'Apache Spark', 'Pandas']","['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'PostgreSQL', 'Microsoft Azure', 'Apache Spark', 'NumPy']",Junior,3.0,1.0,1.0
+13,14,"['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'ASP.NET', '.NET']","['R', 'DynamoDB', 'MongoDB', 'SQLite', 'AWS', 'Microsoft Azure']",Associate,1.0,8.0,19.0
+14,15,"['Go', 'Java', 'JavaScript', 'MySQL', 'PostgreSQL', 'Google Cloud', 'Node.js', 'Spring', 'Docker', 'Homebrew', 'Kubernetes', 'npm']","['Java', 'TypeScript', 'DynamoDB', 'Microsoft SQL Server', 'MySQL', 'AWS', 'Angular', 'Apache Kafka', 'Spring', 'Docker', 'Kubernetes']",Senior,19.0,10.0,3.0
+18,19,"['MATLAB', 'Python', 'SQL', 'Microsoft SQL Server', 'Google Cloud', 'Microsoft Azure']","['SQL', 'Microsoft Azure']",Junior,4.0,3.0,8.0

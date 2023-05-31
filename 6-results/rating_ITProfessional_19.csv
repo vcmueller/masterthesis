@@ -1,0 +1,4 @@
+,id,skills,explevel,name,rank-model1,rank-model2,rank-model3
+19,45,"['PowerShell', 'SQL', 'Microsoft SQL Server', 'Microsoft Azure']",Junior,Junior Power BI Developer,2.0,2.0,1.0
+18,44,"['Python', 'SQL', 'Microsoft SQL Server', 'Microsoft Azure', 'ASP.NET Core']",Junior,Junior Data engineer,1.0,1.0,2.0
+17,43,"['SQL', 'Cassandra', 'Microsoft SQL Server', 'Oracle', 'PostgreSQL', 'Microsoft Azure']",Associate,Power BI Developer,3.0,3.0,3.0
