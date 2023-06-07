@@ -1,0 +1,5 @@
+,id,skills,skills-want,Experience,rank-model1,rank-model2,rank-model3
+10,11,"['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'Microsoft Azure', 'Apache Spark', 'Pandas']","['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'PostgreSQL', 'Microsoft Azure', 'Apache Spark', 'NumPy']",Junior,2.0,2.0,1.0
+12,13,"['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'Microsoft Azure', 'NumPy', 'Pandas', 'Scikit-learn']","['Python', 'Microsoft SQL Server', 'MySQL', 'Microsoft Azure', 'Apache Spark', 'NumPy', 'Pandas', 'Scikit-learn', 'TensorFlow', 'Hugging Face Transformers']",Associate,4.0,3.0,3.0
+13,14,"['Python', 'SQL', 'Microsoft SQL Server', 'MySQL', 'ASP.NET', '.NET']","['R', 'DynamoDB', 'MongoDB', 'SQLite', 'AWS', 'Microsoft Azure']",Associate,3.0,4.0,10.0
+18,19,"['MATLAB', 'Python', 'SQL', 'Microsoft SQL Server', 'Google Cloud', 'Microsoft Azure']","['SQL', 'Microsoft Azure']",Junior,1.0,1.0,2.0
