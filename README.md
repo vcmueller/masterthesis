@@ -8,9 +8,9 @@ The respository is organized in the following manner:
 - [0-rawdata](0-rawdata): datasets used as source data
 - [1-preprocessing](1-preprocessing): notebooks used to transform the initial datasets to be ready for the system
 - [2-data](2-data): data that is used for training and evaluation
-- [3-word-embedding](3-word-embedding): notebook used to train the word embedding model and the model itself
-- [4-match_recommend-employee-to-project](4-match_recommend-employee-to-project): notebooks used to find project roles to a person profile
-- [5-match_recommend-project-to-employee](5-match_recommend-project-to-employee): notebooks used to find people profiles to a project role
+- [3-word_embedding](3-word_embedding): notebook used to train the word embedding model and the model itself
+- [4-match_recommend-employee-to-project](4-match_recommend-employee-to-project): notebooks used to find people profiles to a project role
+- [5-match_recommend-project-to-employee](5-match_recommend-project-to-employee): notebooks used to find project roles to a person profile
 - [6-results](6-results): data outputted from the recommendation system
 - [7-visualizations](7-visualizations): notebooks used to visualize the results
 
